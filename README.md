@@ -10,6 +10,7 @@
 ## Power Platform Documents
 - [Teams 與 Microsoft Power Platform 整合](https://docs.microsoft.com/zh-tw/microsoftteams/teams-power-platfom-integration)
 - [Microsoft Power Platform 文件](https://docs.microsoft.com/zh-tw/power-platform/)
+- [從 Microsoft Stream (傳統) 遷移至新的 Microsoft Stream](https://docs.microsoft.com/zh-tw/stream/streamnew/classic-migration)
 
 ## Go Packages
 - [42wim/matterbridge](https://github.com/42wim/matterbridge)
