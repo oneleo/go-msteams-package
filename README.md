@@ -12,6 +12,11 @@
 - [Microsoft Power Platform 文件](https://docs.microsoft.com/zh-tw/power-platform/)
 - [從 Microsoft Stream (傳統) 遷移至新的 Microsoft Stream](https://docs.microsoft.com/zh-tw/stream/streamnew/classic-migration)
 
+## Data Source
+- [Microsoft Stream](https://web.microsoftstream.com/)
+- [Microsoft 365](https://www.office.com/)
+- [Microsoft Teams](https://teams.microsoft.com/)
+
 ## Go Packages
 - [42wim/matterbridge](https://github.com/42wim/matterbridge)
 - [prometheus-msteams/prometheus-msteams](https://github.com/prometheus-msteams/prometheus-msteams)
